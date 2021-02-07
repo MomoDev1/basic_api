@@ -1,0 +1,15 @@
+{
+    "name": "med/rest-project",
+    "authors": [
+        {
+            "name": "Mohammed EL HAMMOUMI",
+            "email": "m.elhammoumi@thecondingmachine.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },
+    "require": {
+
+    }
+}
